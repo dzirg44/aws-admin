@@ -1,8 +1,8 @@
 package main
 
 import (
-	"aws-admin/awsmanager"
 	"fmt"
+	"github.com/dzirg44/aws-admin/awsmanager"
 )
 
 func main() {
